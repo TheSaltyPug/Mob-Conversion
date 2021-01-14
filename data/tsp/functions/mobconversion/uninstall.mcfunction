@@ -2,4 +2,4 @@
 
 scoreboard objectives remove tsp.mco.icount
 
- datapack disable "file/Mob Conversion"
+datapack disable "file/Mob Conversion"
