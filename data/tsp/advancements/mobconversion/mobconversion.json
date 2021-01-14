@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Convert more mobs!",
+          "icon": {
+               "item": "minecraft:golden_apple"
+          },
+          "show_toast": false,
+          "title": "Mob Conversion"
+     },
+     "parent": "global:tsp"
+}
